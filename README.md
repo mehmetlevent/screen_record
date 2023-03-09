@@ -2,7 +2,6 @@
 
 
 
-
 pip install numpy 
 
 pip install pyautogui
@@ -18,3 +17,4 @@ pip install time
 
 use terminal 
 
+After typing python <filename>.py from the terminal, the program starts recording automatically. you can observe how many seconds it records from the terminal.
